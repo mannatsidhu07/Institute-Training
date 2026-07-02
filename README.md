@@ -12,3 +12,5 @@ The class started with a revision of basic, universal and exclusive logic gates.
   <b>XNOR</b>: 74266<br>
 </div><br>
 During the practical session we were introduced to a new software called PROTEUS which helps in testing logic circuits on computer before actually building in real life so that mistakes can be identified early on. 
+### Day-2
+Today I used proteus software to realise basic gates using universal gates. Proofs of the same are attached below:<br><br><div align =center>
