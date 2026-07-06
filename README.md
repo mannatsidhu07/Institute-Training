@@ -1,5 +1,5 @@
 # Institute-Training
-This repository stores all the new things I learned during my 30 days institution level training at Guru Nanak Dev Engineering College, Ludhiana.This training would prepare me for upcoming 3 years of my degree in Electronics and Communication by educating me about some basic softwares, digital electronic devices, electronic circuits,etc.
+This repository stores all the new things I learned during my institution level training at Guru Nanak Dev Engineering College, Ludhiana.This training would prepare me for upcoming 3 years of my degree in Electronics and Communication by educating me about some basic softwares, digital electronic devices, electronic circuits,etc.
 ### Day-1
 The class started with a revision of basic, universal and exclusive logic gates. We were asked to make the truth table nd write down the boolean expression of all these logic gates along with their IC numbers which are :<br>
 <div align=center>
@@ -24,4 +24,10 @@ Today's session was completely on the practical side. I learned soldering and de
 <img width="600" height="300" alt="training day3" src="https://github.com/user-attachments/assets/ad64c992-4077-4b24-924d-0dd8c2265270" />
 <br><br>
 </div>
+
+### Day-4
+The session started with detailed explanation of working of half wave rectifiers and full wave rectifiers and their circuit diagrams as well. Later on, i practiced making the circuits on proteus software and observed the graph as well.<br><br><div align=center>
+<img width="800" height="400" alt="ss" src="https://github.com/user-attachments/assets/ceb7bf26-a1d8-4e4d-a61f-f46d92ed4759" /><br><br>
+<img width="524" height="503" alt="sss" src="https://github.com/user-attachments/assets/c592af51-f59c-4f78-a7c1-4cb57ec8567c" /><br><br>
+<img width="800" height="450" alt="ssss" src="https://github.com/user-attachments/assets/acd6335f-cb7c-4962-8fe2-a808abcf4cb0" /><br><br></div>
 
