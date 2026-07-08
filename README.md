@@ -31,3 +31,22 @@ The session started with detailed explanation of working of half wave rectifiers
 <img width="524" height="503" alt="sss" src="https://github.com/user-attachments/assets/c592af51-f59c-4f78-a7c1-4cb57ec8567c" /><br><br>
 <img width="800" height="450" alt="ssss" src="https://github.com/user-attachments/assets/acd6335f-cb7c-4962-8fe2-a808abcf4cb0" /><br><br></div>
 
+### Day-6
+In today's session, i used the proteus software to make the following circuits: <br>
+<b>1.RC low pass filter :</b><br>
+This attenuates high frequencies and only lets low frequencies to pass. Output comes from the resistor in this case.<div align ="center"><br><br>
+<img width="800" height="450" alt="low pass filter different vslue" src="https://github.com/user-attachments/assets/5c7fff06-8783-40b4-b87e-e95c9672f960" /><br><br></div>
+<b>2.RC high pass filter :</b><br>
+This attenuates low frequencies and only lets high frequencies pass. Output comes from the capacitor in this case.<div align="center"><br><br>
+<img width="800" height="350" alt="high pass filter different value" src="https://github.com/user-attachments/assets/b43ea84b-0967-40b1-a0d3-81cb5cd796b9" /><br><br></div>
+<b>3.LC low pass filter :</b><br>
+This attenuates high frequencies and only lets low frequencies pass. Output comes from the Inductor.<div align="center"><br><br>
+<img width="800" height="550" alt="low pass lc filter" src="https://github.com/user-attachments/assets/78868250-87f4-49f2-b8c1-a2be33e7325e" /></div><br><br>
+<b>4.LC high pass filter :</b><br>
+This attenuates low frequencies and only lets high frequencies pass. Output comes from the capacitor.<div align="center"><br><br>
+<img width="868" height="522" alt="high pass lc filter" src="https://github.com/user-attachments/assets/b03eb803-ad97-4ded-8f94-1dcf25eaf8aa" /><br><br></div>
+
+
+
+
+
