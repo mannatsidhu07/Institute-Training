@@ -127,6 +127,21 @@ Today's task was to construct the circuit of a half wave rectifier and a full wa
 <img width="600" height="850" alt="WhatsApp Image 2026-07-19 at 14 26 23" src="https://github.com/user-attachments/assets/443e92a8-7f79-4567-8454-6fc0b8dfaf3a" /><br><br>
 <img width="800" height="500" alt="WhatsApp Image 2026-07-19 at 14 26 23 (1)" src="https://github.com/user-attachments/assets/f612a411-bd02-4a07-a7ca-9aaf8bb7d81b" />
 
+### Day-14
+Our seniors were our mentors for today. They taught us basics of microcontrollers, arduino UNO and its basics. Further we practiced making digital circuits using tinkercad and i successfully completed following three circuits:<br><br>
+<div align="center"><b>1.Simple LED</b><br>
+<img width="800" height="550" alt="WhatsApp Image 2026-07-20 at 22 34 05 (1)" src="https://github.com/user-attachments/assets/fbc5607a-69a6-42e9-9163-c5f4f1f66d1c" /><br><br>
+<b>2.LED brightness control using potentiometer</b><br>
+
+<img width="800" height="550" alt="WhatsApp Image 2026-07-20 at 22 34 05" src="https://github.com/user-attachments/assets/01ab373b-7f94-473c-be2c-86b5d2c02e14" /><br><br>
+<b>RGB LED dancing light</b><br>
+<img width="800" height="450" alt="WhatsApp Image 2026-07-20 at 22 34 04 (2)" src="https://github.com/user-attachments/assets/53915883-011b-479f-b1ba-32be9cada2ac" /><br><br></div>
+All the basic things about arduino, like GND, other terminals numbered from 1 to13, push button, analog signal terminals and jumper wire connections was taught. A great session overall.<br>
+Later on i practiced these circuits on my own arduino board at home physically by uploading the code using Arduino IDE and understanding the libraries like digitalWrite and what the basic arduino code structure is, i.e. void setup() and void loop(). 
+
+
+
+
 
 
   
