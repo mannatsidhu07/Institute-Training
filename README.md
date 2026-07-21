@@ -126,7 +126,7 @@ Today's task was to construct the circuit of a half wave rectifier and a full wa
 <b>2.Full wave rectifier</b><br>
 <img width="600" height="850" alt="WhatsApp Image 2026-07-19 at 14 26 23" src="https://github.com/user-attachments/assets/443e92a8-7f79-4567-8454-6fc0b8dfaf3a" /><br><br>
 <img width="800" height="500" alt="WhatsApp Image 2026-07-19 at 14 26 23 (1)" src="https://github.com/user-attachments/assets/f612a411-bd02-4a07-a7ca-9aaf8bb7d81b" />
-
+</div>
 ### Day-14
 Our seniors were our mentors for today. They taught us basics of microcontrollers, arduino UNO and its basics. Further we practiced making digital circuits using tinkercad and i successfully completed following three circuits:<br><br>
 <div align="center"><b>1.Simple LED</b><br>
